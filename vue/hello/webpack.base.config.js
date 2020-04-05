@@ -1,0 +1,1 @@
+require('es6-promise').polyfill(); // IE Pollyfill 지원을 위해 추가

@@ -1,0 +1,160 @@
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Server version:        Apache Tomcat/7.0.82
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Server built:          Sep 29 2017 12:23:15 UTC
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Server number:         7.0.82.0
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: OS Name:               Windows 7
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: OS Version:            6.1
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Architecture:          amd64
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Java Home:             C:\Program Files\Java\jdk1.8.0_131\jre
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: JVM Version:           1.8.0_131-b11
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: JVM Vendor:            Oracle Corporation
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: CATALINA_BASE:         C:\WAS\tomcat\apache-tomcat-7.0.82
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: CATALINA_HOME:         C:\WAS\tomcat\apache-tomcat-7.0.82
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.util.logging.config.file=C:\WAS\tomcat\apache-tomcat-7.0.82\conf\logging.properties
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.endorsed.dirs=C:\WAS\tomcat\apache-tomcat-7.0.82\endorsed
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Dcatalina.base=C:\WAS\tomcat\apache-tomcat-7.0.82
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Dcatalina.home=C:\WAS\tomcat\apache-tomcat-7.0.82
+3월 19, 2018 11:28:11 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.io.tmpdir=C:\WAS\tomcat\apache-tomcat-7.0.82\temp
+3월 19, 2018 11:28:11 오전 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+정보: Loaded APR based Apache Tomcat Native library 1.2.14 using APR version 1.6.2.
+3월 19, 2018 11:28:11 오전 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+정보: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+3월 19, 2018 11:28:12 오전 org.apache.catalina.core.AprLifecycleListener initializeSSL
+정보: OpenSSL successfully initialized (OpenSSL 1.0.2l  25 May 2017)
+3월 19, 2018 11:28:12 오전 org.apache.coyote.AbstractProtocol init
+정보: Initializing ProtocolHandler ["http-apr-8080"]
+3월 19, 2018 11:28:12 오전 org.apache.coyote.AbstractProtocol init
+정보: Initializing ProtocolHandler ["ajp-apr-8009"]
+3월 19, 2018 11:28:12 오전 org.apache.catalina.startup.Catalina load
+정보: Initialization processed in 1593 ms
+3월 19, 2018 11:28:12 오전 org.apache.catalina.core.StandardService startInternal
+정보: Starting service Catalina
+3월 19, 2018 11:28:12 오전 org.apache.catalina.core.StandardEngine startInternal
+정보: Starting Servlet Engine: Apache Tomcat/7.0.82
+3월 19, 2018 11:28:12 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\docs
+3월 19, 2018 11:28:13 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\docs has finished in 463 ms
+3월 19, 2018 11:28:13 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\examples
+3월 19, 2018 11:28:13 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\examples has finished in 485 ms
+3월 19, 2018 11:28:13 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\host-manager
+3월 19, 2018 11:28:14 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\host-manager has finished in 196 ms
+3월 19, 2018 11:28:14 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\manager
+3월 19, 2018 11:28:14 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\manager has finished in 111 ms
+3월 19, 2018 11:28:14 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\ROOT
+3월 19, 2018 11:28:14 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\ROOT has finished in 69 ms
+3월 19, 2018 11:28:14 오전 org.apache.coyote.AbstractProtocol start
+정보: Starting ProtocolHandler ["http-apr-8080"]
+3월 19, 2018 11:28:14 오전 org.apache.coyote.AbstractProtocol start
+정보: Starting ProtocolHandler ["ajp-apr-8009"]
+3월 19, 2018 11:28:14 오전 org.apache.catalina.startup.Catalina start
+정보: Server startup in 1514 ms
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Server version:        Apache Tomcat/7.0.82
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Server built:          Sep 29 2017 12:23:15 UTC
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Server number:         7.0.82.0
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: OS Name:               Windows 7
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: OS Version:            6.1
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Architecture:          amd64
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Java Home:             C:\Program Files\Java\jdk1.8.0_131\jre
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: JVM Version:           1.8.0_131-b11
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: JVM Vendor:            Oracle Corporation
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: CATALINA_BASE:         C:\WAS\tomcat\apache-tomcat-7.0.82
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: CATALINA_HOME:         C:\WAS\tomcat\apache-tomcat-7.0.82
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.util.logging.config.file=C:\WAS\tomcat\apache-tomcat-7.0.82\conf\logging.properties
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.endorsed.dirs=C:\WAS\tomcat\apache-tomcat-7.0.82\endorsed
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Dcatalina.base=C:\WAS\tomcat\apache-tomcat-7.0.82
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Dcatalina.home=C:\WAS\tomcat\apache-tomcat-7.0.82
+3월 19, 2018 11:31:42 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.io.tmpdir=C:\WAS\tomcat\apache-tomcat-7.0.82\temp
+3월 19, 2018 11:31:42 오전 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+정보: Loaded APR based Apache Tomcat Native library 1.2.14 using APR version 1.6.2.
+3월 19, 2018 11:31:42 오전 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+정보: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+3월 19, 2018 11:31:43 오전 org.apache.catalina.core.AprLifecycleListener initializeSSL
+정보: OpenSSL successfully initialized (OpenSSL 1.0.2l  25 May 2017)
+3월 19, 2018 11:31:43 오전 org.apache.coyote.AbstractProtocol init
+정보: Initializing ProtocolHandler ["http-apr-8080"]
+3월 19, 2018 11:31:43 오전 org.apache.coyote.AbstractProtocol init
+정보: Initializing ProtocolHandler ["ajp-apr-8009"]
+3월 19, 2018 11:31:43 오전 org.apache.catalina.startup.Catalina load
+정보: Initialization processed in 1421 ms
+3월 19, 2018 11:31:43 오전 org.apache.catalina.core.StandardService startInternal
+정보: Starting service Catalina
+3월 19, 2018 11:31:43 오전 org.apache.catalina.core.StandardEngine startInternal
+정보: Starting Servlet Engine: Apache Tomcat/7.0.82
+3월 19, 2018 11:31:43 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\docs
+3월 19, 2018 11:31:43 오전 org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+경고: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [113] milliseconds.
+3월 19, 2018 11:31:43 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\docs has finished in 441 ms
+3월 19, 2018 11:31:43 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\examples
+3월 19, 2018 11:31:44 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\examples has finished in 376 ms
+3월 19, 2018 11:31:44 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\host-manager
+3월 19, 2018 11:31:44 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\host-manager has finished in 179 ms
+3월 19, 2018 11:31:44 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\manager
+3월 19, 2018 11:31:44 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\manager has finished in 66 ms
+3월 19, 2018 11:31:44 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\ROOT
+3월 19, 2018 11:31:44 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\WAS\tomcat\apache-tomcat-7.0.82\webapps\ROOT has finished in 53 ms
+3월 19, 2018 11:31:44 오전 org.apache.coyote.AbstractProtocol start
+정보: Starting ProtocolHandler ["http-apr-8080"]
+3월 19, 2018 11:31:44 오전 org.apache.coyote.AbstractProtocol start
+정보: Starting ProtocolHandler ["ajp-apr-8009"]
+3월 19, 2018 11:31:44 오전 org.apache.catalina.startup.Catalina start
+정보: Server startup in 1205 ms
+3월 19, 2018 11:32:52 오전 org.apache.coyote.ajp.AjpMessage processHeader
+심각: Invalid message received with signature 18245

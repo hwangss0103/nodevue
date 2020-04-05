@@ -1,0 +1,44 @@
+{
+  "name": "nodevue",
+  "version": "0.0.0",
+  "description": "project for node & vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hwangss0103/nodevue.git"
+  },
+  "keywords": [
+    "node",
+    "vue"
+  ],
+  "author": "hwangss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwangss0103/nodevue/issues"
+  },
+  "homepage": "https://github.com/hwangss0103/nodevue#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.0.0",
+    "ejs": "^3.0.1",
+    "es6-promise": "^4.2.8",
+    "express": "^4.17.1",
+    "hashmap": "^2.4.0",
+    "lodash": "^4.17.15",
+    "mysql": "^2.18.1",
+    "ngrok": "^3.2.7",
+    "open-graph-scraper": "^3.6.2",
+    "socket.io": "^2.3.0",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "webpack-node-externals": "^1.7.2"
+  }
+}

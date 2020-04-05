@@ -1,0 +1,160 @@
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Server version:        Apache Tomcat/7.0.82
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Server built:          Sep 29 2017 12:23:15 UTC
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Server number:         7.0.82.0
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: OS Name:               Windows 10
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: OS Version:            10.0
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Architecture:          amd64
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Java Home:             C:\Program Files\Java\jdk1.8.0_131\jre
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: JVM Version:           1.8.0_131-b11
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: JVM Vendor:            Oracle Corporation
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: CATALINA_BASE:         C:\workspace\nodevue\vue\apache-tomcat-7.0.82
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: CATALINA_HOME:         C:\workspace\nodevue\vue\apache-tomcat-7.0.82
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.util.logging.config.file=C:\workspace\nodevue\vue\apache-tomcat-7.0.82\conf\logging.properties
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.endorsed.dirs=C:\workspace\nodevue\vue\apache-tomcat-7.0.82\endorsed
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Dcatalina.base=C:\workspace\nodevue\vue\apache-tomcat-7.0.82
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Dcatalina.home=C:\workspace\nodevue\vue\apache-tomcat-7.0.82
+4월 05, 2020 9:57:44 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.io.tmpdir=C:\workspace\nodevue\vue\apache-tomcat-7.0.82\temp
+4월 05, 2020 9:57:44 오전 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+정보: Loaded APR based Apache Tomcat Native library 1.2.14 using APR version 1.6.2.
+4월 05, 2020 9:57:44 오전 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+정보: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+4월 05, 2020 9:57:45 오전 org.apache.catalina.core.AprLifecycleListener initializeSSL
+정보: OpenSSL successfully initialized (OpenSSL 1.0.2l  25 May 2017)
+4월 05, 2020 9:57:45 오전 org.apache.coyote.AbstractProtocol init
+정보: Initializing ProtocolHandler ["http-apr-8080"]
+4월 05, 2020 9:57:45 오전 org.apache.coyote.AbstractProtocol init
+정보: Initializing ProtocolHandler ["ajp-apr-8009"]
+4월 05, 2020 9:57:45 오전 org.apache.catalina.startup.Catalina load
+정보: Initialization processed in 1379 ms
+4월 05, 2020 9:57:45 오전 org.apache.catalina.core.StandardService startInternal
+정보: Starting service Catalina
+4월 05, 2020 9:57:45 오전 org.apache.catalina.core.StandardEngine startInternal
+정보: Starting Servlet Engine: Apache Tomcat/7.0.82
+4월 05, 2020 9:57:45 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\docs
+4월 05, 2020 9:57:46 오전 org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+경고: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [344] milliseconds.
+4월 05, 2020 9:57:46 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\docs has finished in 687 ms
+4월 05, 2020 9:57:46 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\examples
+4월 05, 2020 9:57:47 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\examples has finished in 875 ms
+4월 05, 2020 9:57:47 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\host-manager
+4월 05, 2020 9:57:47 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\host-manager has finished in 172 ms
+4월 05, 2020 9:57:47 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\manager
+4월 05, 2020 9:57:47 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\manager has finished in 94 ms
+4월 05, 2020 9:57:47 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\ROOT
+4월 05, 2020 9:57:47 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\ROOT has finished in 63 ms
+4월 05, 2020 9:57:47 오전 org.apache.coyote.AbstractProtocol start
+정보: Starting ProtocolHandler ["http-apr-8080"]
+4월 05, 2020 9:57:47 오전 org.apache.coyote.AbstractProtocol start
+정보: Starting ProtocolHandler ["ajp-apr-8009"]
+4월 05, 2020 9:57:47 오전 org.apache.catalina.startup.Catalina start
+정보: Server startup in 2006 ms
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Server version:        Apache Tomcat/7.0.82
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Server built:          Sep 29 2017 12:23:15 UTC
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Server number:         7.0.82.0
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: OS Name:               Windows 10
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: OS Version:            10.0
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Architecture:          amd64
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Java Home:             C:\Program Files\Java\jdk1.8.0_131\jre
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: JVM Version:           1.8.0_131-b11
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: JVM Vendor:            Oracle Corporation
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: CATALINA_BASE:         C:\workspace\nodevue\vue\apache-tomcat-7.0.82
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: CATALINA_HOME:         C:\workspace\nodevue\vue\apache-tomcat-7.0.82
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.util.logging.config.file=C:\workspace\nodevue\vue\apache-tomcat-7.0.82\conf\logging.properties
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.endorsed.dirs=C:\workspace\nodevue\vue\apache-tomcat-7.0.82\endorsed
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Dcatalina.base=C:\workspace\nodevue\vue\apache-tomcat-7.0.82
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Dcatalina.home=C:\workspace\nodevue\vue\apache-tomcat-7.0.82
+4월 05, 2020 10:18:06 오전 org.apache.catalina.startup.VersionLoggerListener log
+정보: Command line argument: -Djava.io.tmpdir=C:\workspace\nodevue\vue\apache-tomcat-7.0.82\temp
+4월 05, 2020 10:18:06 오전 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+정보: Loaded APR based Apache Tomcat Native library 1.2.14 using APR version 1.6.2.
+4월 05, 2020 10:18:06 오전 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+정보: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+4월 05, 2020 10:18:07 오전 org.apache.catalina.core.AprLifecycleListener initializeSSL
+정보: OpenSSL successfully initialized (OpenSSL 1.0.2l  25 May 2017)
+4월 05, 2020 10:18:07 오전 org.apache.coyote.AbstractProtocol init
+정보: Initializing ProtocolHandler ["http-apr-8080"]
+4월 05, 2020 10:18:07 오전 org.apache.coyote.AbstractProtocol init
+정보: Initializing ProtocolHandler ["ajp-apr-8009"]
+4월 05, 2020 10:18:07 오전 org.apache.catalina.startup.Catalina load
+정보: Initialization processed in 1398 ms
+4월 05, 2020 10:18:07 오전 org.apache.catalina.core.StandardService startInternal
+정보: Starting service Catalina
+4월 05, 2020 10:18:07 오전 org.apache.catalina.core.StandardEngine startInternal
+정보: Starting Servlet Engine: Apache Tomcat/7.0.82
+4월 05, 2020 10:18:07 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\docs
+4월 05, 2020 10:18:08 오전 org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+경고: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [375] milliseconds.
+4월 05, 2020 10:18:08 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\docs has finished in 734 ms
+4월 05, 2020 10:18:08 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\examples
+4월 05, 2020 10:18:08 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\examples has finished in 471 ms
+4월 05, 2020 10:18:08 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\host-manager
+4월 05, 2020 10:18:08 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\host-manager has finished in 125 ms
+4월 05, 2020 10:18:08 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\manager
+4월 05, 2020 10:18:08 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\manager has finished in 78 ms
+4월 05, 2020 10:18:08 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deploying web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\ROOT
+4월 05, 2020 10:18:09 오전 org.apache.catalina.startup.HostConfig deployDirectory
+정보: Deployment of web application directory C:\workspace\nodevue\vue\apache-tomcat-7.0.82\webapps\ROOT has finished in 156 ms
+4월 05, 2020 10:18:09 오전 org.apache.coyote.AbstractProtocol start
+정보: Starting ProtocolHandler ["http-apr-8080"]
+4월 05, 2020 10:18:09 오전 org.apache.coyote.AbstractProtocol start
+정보: Starting ProtocolHandler ["ajp-apr-8009"]
+4월 05, 2020 10:18:09 오전 org.apache.catalina.startup.Catalina start
+정보: Server startup in 1661 ms
