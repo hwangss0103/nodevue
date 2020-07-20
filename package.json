@@ -31,7 +31,7 @@
     "es6-promise": "^4.2.8",
     "express": "^4.17.1",
     "hashmap": "^2.4.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mysql": "^2.18.1",
     "ngrok": "^3.2.7",
     "open-graph-scraper": "^3.6.2",
